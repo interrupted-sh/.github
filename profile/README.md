@@ -7,10 +7,10 @@ Open source, built between interruptions.
 Encrypted secrets manager for developers.
 
 ```sh
-brew install interrupted-inc/murk/murk
+brew install interrupted-sh/murk/murk
 ```
 
-[source](https://github.com/interrupted-inc/murk) · [docs](https://murk.interrupted.sh) · [GitHub Action](https://github.com/marketplace/actions/murk-action)
+[source](https://github.com/interrupted-sh/murk) · [docs](https://murk.interrupted.sh) · [GitHub Action](https://github.com/marketplace/actions/murk-action)
 
 ---
 
